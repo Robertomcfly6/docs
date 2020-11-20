@@ -12,7 +12,9 @@ redirect_from:
   - /enterprise/admin/articles/setting-git-push-limits/
   - /enterprise/admin/user-management/allowing-admins-to-enable-anonymous-git-read-access-to-public-repositories
   - /enterprise/admin/installation/disabling-the-merge-conflict-editor-for-pull-requests-between-repositories
-  - /enterprise/admin/developer-workflow/blocking-force-pushes-on-your-appliance
+ 
+
+ - /enterprise/admin/developer-workflow/blocking-force-pushes-on-your-appliance
   - /enterprise/admin/developer-workflow/blocking-force-pushes-to-repositories-owned-by-a-user-account-or-organization
   - /enterprise/admin/developer-workflow/blocking-force-pushes-to-a-repository
   - /enterprise/admin/articles/blocking-force-pushes-on-your-appliance/
